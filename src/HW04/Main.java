@@ -1,5 +1,7 @@
 package HW04;
 
+// за допомогою WHILE
+
 public class Main {
 
     public static void main(String[] args) {

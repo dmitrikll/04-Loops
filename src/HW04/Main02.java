@@ -1,5 +1,7 @@
 package HW04;
 
+// за допомогою [] + FOR-EACH
+
 public class Main02 {
 
     public static void main(String[] args) {
