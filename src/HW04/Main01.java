@@ -12,6 +12,7 @@ public class Main01 {
             System.out.println(numbers[i] + ") Num is " + numbers[i] + ", sum is " + sum);
         }
 
-        System.out.println("\n-----------------------\n\n" + "Sum of numbers is " + sum);
+        System.out.println("\n-----------------------\n\n" +
+                "Sum of numbers is " + sum);
     }
 }
