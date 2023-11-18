@@ -1,21 +1,20 @@
 package HW04;
 
-// за допомогою WHILE
+// за допомогою [] + FOR-EACH
 
-public class Main {
+public class Main04 {
 
     public static void main(String[] args) {
 
-        int num = 1;
+        int[] numbers = {1, 2, 3, 4, 5, 6};
         int sum = 0;
 
-        while (num <= 6) {
+        for (int num : numbers) {
             sum += num;
             System.out.println(num + ") Num is " + num + ", sum is " + sum);
-            num += 1;
         }
 
-        System.out.println("\n-----------------------\n\n" +
+        System.out.println("-----------------------\n" +
                 "Sum of numbers is " + sum);
     }
 }

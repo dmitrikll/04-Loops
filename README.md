@@ -16,8 +16,6 @@ Loops
 4) Num is 4, sum is 10
 5) Num is 5, sum is 15
 6) Num is 6, sum is 21
-
 -----------------------
-
 Sum of numbers is 21
 
