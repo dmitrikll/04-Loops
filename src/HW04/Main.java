@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+
         int num = 1;
         int sum = 0;
 
@@ -13,6 +14,6 @@ public class Main {
             num += 1;
         }
 
-        System.out.println("\n-----------------------\n" + "Sum of numbers is " + sum);
+        System.out.println("\n-----------------------\n\n" + "Sum of numbers is " + sum);
     }
 }
